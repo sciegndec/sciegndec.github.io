@@ -12,7 +12,7 @@ This is an event organised by SCIE GNDEC. This event is categorised into 3 round
 The last round of the event is a competitive coding round. In this you have to compete with the winners of second round.
 
 <br><br>
-Partcpation cerification will be provided to each particpant and the winners will get some excited prizes.<br>
+Partcpation cerification will be provided to each particpant and the winners will get some excited prizes :<br>
 1. Wireless Earphones
 2. Pendrive
 3. Laptop Table
