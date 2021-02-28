@@ -20,7 +20,7 @@ Partcpation cerification will be provided to each particpant and the winners wil
 
 # Registeration
 <br>
-For particpating in this event fill [this](https://docs.google.com/forms/d/e/1FAIpQLSeaTEBZyMFZmUVxwoH0t2Am3aLlhFFWro7Zy5KOvRlDyDq-aA/viewform?usp=sf_link) form.
+For particpating in this event fill [this](https://docs.google.com/forms/d/e/1FAIpQLSeaTEBZyMFZmUVxwoH0t2Am3aLlhFFWro7Zy5KOvRlDyDq-aA/viewform?usp=sf_link) form. For any queries feel free to have a chat with our team by clicking on the blue message icon.
 <br><br>
 
 ## The event is on 3 March,2021. Further instructions will be delivered to you at your registered email stay tuned.
