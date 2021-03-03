@@ -27,5 +27,6 @@ For particpating in this event fill [this](https://docs.google.com/forms/d/e/1FA
 2. Please fill [this](https://docs.google.com/forms/d/e/1FAIpQLSc6w08U2AN0hrvtZtzjWTL7C8xkTYWpilAMyfmnHCshEqIkwA/viewform?usp=sf_link) form also to tell us that in which mode you will attend the event online or offline .
 3. The event is at 2 pm on 3 march, 2021. Venue and link will be distributed on whatsapp group.<br>
 4.  [Meeting Link](https://meet.google.com/idy-rknz-bpf) 
+5.  [Quiz Round 2](https://docs.google.com/forms/d/e/1FAIpQLScG5x0Xf8AuCTwodaFiOB7NSrHpdj-nbor0lL6xR4eoM44kZQ/viewform?usp=sf_link)
 
 ## The event is on 3 March,2021. Further instructions will be delivered to you at your registered email stay tuned.
