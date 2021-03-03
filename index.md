@@ -26,5 +26,6 @@ For particpating in this event fill [this](https://docs.google.com/forms/d/e/1FA
 1. A whatsapp group has been created for particpants if you are not the part of group drop us a message by clicking on the blue message icon, you can also contact us on instagram for any queries.
 2. Please fill [this](https://docs.google.com/forms/d/e/1FAIpQLSc6w08U2AN0hrvtZtzjWTL7C8xkTYWpilAMyfmnHCshEqIkwA/viewform?usp=sf_link) form also to tell us that in which mode you will attend the event online or offline .
 3. The event is at 2 pm on 3 march, 2021. Venue and link will be distributed on whatsapp group.<br>
+4.  [Meeting Link](https://meet.google.com/idy-rknz-bpf) 
 
 ## The event is on 3 March,2021. Further instructions will be delivered to you at your registered email stay tuned.
