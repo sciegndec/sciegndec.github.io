@@ -7,6 +7,7 @@ The working structure of our society is quite simple their are 4 levels:-
 4. Active members
 
 ## AIM OF SOCIETY
+
 Harness the talents of students,shape them up,mould them into competent personalities
 
 S.C.I.E. adheres to the College Vision, of grooming the students to make them, both, technically as well as intellectually competent. The Society serves the purpose of providing students with a platform to channelize their potentials along technical as well as intellectual lines.
@@ -27,7 +28,7 @@ S.C.I.E. adheres to the College Vision, of grooming the students to make them, b
 | Discipline Head   | Vivek Sharma      |
 | Announcement Head | Sandeep           |
 
-##Ideas We Promote
+## Ideas We Promote
 1. HACKATHONS
 2. Technical Events
 3. FUN EVENTS
@@ -36,7 +37,7 @@ S.C.I.E. adheres to the College Vision, of grooming the students to make them, b
 6. MEGA EVENT
 7. EXPERT LECTURES
 
-##SCIE Gallery
+## SCIE Gallery
 This portion will contain all the upcoming events and announcments, details about previous events. If you have any query then feel free to have a live chat with our team by clicking on the blue message button. Our team will be happy to assist you.
 
 ### Announcements
