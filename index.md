@@ -42,11 +42,14 @@ This portion will contain all the upcoming events and announcments, details abou
 
 ### Announcements
 ---
+Recruitment for SCIE GNDEC is on March 6,2021
 
 ### OUR EVENTS
 ---
-* [Poetry Beyond  Everything](/events/poetrybeyondeverything)
-* [PAWRI WITH C](/events/pawriwithc.md)
+* [Poetry Beyond  Everything](/)
+* [PAWRI WITH C](/events/pawriwithc)
+
+We at SCIE Gndec believe in open source , so if you want to contribute to this website then feel free to send us a Pull Request. 
 
 
 
