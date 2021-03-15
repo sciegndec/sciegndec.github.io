@@ -1,4 +1,4 @@
-S.C.I.E. is one of the oldest Student organizations, though this socirty is technical society but we permote  tech with fun. We have a complete team of tech enthusiasts working with us for the welfare of GNDEC and SCIE. If you want to be the part of welfare then join us.
+S.C.I.E. is one of the oldest Student organizations, though this society is technical society but we permote  tech with fun. We have a complete team of tech enthusiasts working with us for the welfare of GNDEC and SCIE. If you want to be the part of welfare then join us.
 
 The working structure of our society is quite simple their are 4 levels:-
 1. Faculty head
@@ -6,12 +6,12 @@ The working structure of our society is quite simple their are 4 levels:-
 3. Executive members
 4. Active members
 
-##AIM OF SOCIETY
-harness the talents of students,shape them up,mould them into competent personalities
+## AIM OF SOCIETY
+Harness the talents of students,shape them up,mould them into competent personalities
 
 S.C.I.E. adheres to the College Vision, of grooming the students to make them, both, technically as well as intellectually competent. The Society serves the purpose of providing students with a platform to channelize their potentials along technical as well as intellectual lines.
 
-##Current Post Holders
+## Current Post Holders
 
 
 | Post              | Post Holder       | 
