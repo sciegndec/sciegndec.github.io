@@ -1,33 +1,50 @@
-# Welcome to Pawri With C
+S.C.I.E. is one of the oldest Student organizations, though this socirty is technical society but we permote  tech with fun. We have a complete team of tech enthusiasts working with us for the welfare of GNDEC and SCIE. If you want to be the part of welfare then join us.
 ---
-This is an event organised by SCIE GNDEC. This event is categorised into 3 rounds.
+The working structure of our society is quite simple their are 4 levels:-
+1. Faculty head
+2. Post holders
+3. Executive members
+4. Active members
+## AIM OF SOCIETY
+harness the talents of students,shape them up,mould them into competent personalities
 
-## 1. Assimilate C 
- In this round our team members will teach you the basics of programming by using C language.
-<br>
-## 2. Quizeria On C
- There will be a small Quiz on Fundamentals of programming
-<br>
-## 3. Code War
-The last round of the event is a competitive coding round. In this you have to compete with the winners of second round. You can code in your preferable language.
+S.C.I.E. adheres to the College Vision, of grooming the students to make them, both, technically as well as intellectually competent. The Society serves the purpose of providing students with a platform to channelize their potentials along technical as well as intellectual lines.
 
-<br><br>
-Partcpation cerification will be provided to each particpant and the winners will get some excited prizes :<br>
-1. Wireless Earphones
-2. Pendrive
-3. Laptop Table
-<br><br>
+## Current Post Holders
+| Post              | Post Holder       | 
+| :---:             | :---:             |
+| Faculty Head      | Dr.Arvind Dhingra |
+| Convener          | Mohit Sharma      |
+| Co-Convener       | Mayank Bakshi     |
+| Event Coordinator | Mehek Preet       |
+| Creative Head     | Komalpreet Kaur   |
+| Secretary         | Priya             |
+| PRO               | Kajal             |
+| Allotment Head    | Rajat Nambiar     |
+| Discipline Head   | Vivek Sharma      |
+| Announcement Head | Sandeep           |
 
-# Registeration
-<br>
-For particpating in this event fill [this](https://docs.google.com/forms/d/e/1FAIpQLSeaTEBZyMFZmUVxwoH0t2Am3aLlhFFWro7Zy5KOvRlDyDq-aA/viewform?usp=sf_link) form. For any queries feel free to have a chat with our team by clicking on the blue message icon.
-<br><br>
-# Event Update
-1. A whatsapp group has been created for particpants if you are not the part of group drop us a message by clicking on the blue message icon, you can also contact us on instagram for any queries.
-2. Please fill [this](https://docs.google.com/forms/d/e/1FAIpQLSc6w08U2AN0hrvtZtzjWTL7C8xkTYWpilAMyfmnHCshEqIkwA/viewform?usp=sf_link) form also to tell us that in which mode you will attend the event online or offline .
-3. The event is at 2 pm on 3 march, 2021. Venue and link will be distributed on whatsapp group.<br>
-4.  [Meeting Link](https://meet.google.com/idy-rknz-bpf) 
-5.  [Quiz Round 2](https://docs.google.com/forms/d/e/1FAIpQLScG5x0Xf8AuCTwodaFiOB7NSrHpdj-nbor0lL6xR4eoM44kZQ/viewform?usp=sf_link)
-6.  [Round3](https://www.hackerrank.com/code-war-11)
+## Ideas We Promote
+1. HACKATHONS
+2. Technical Events
+3. FUN EVENTS
+4. ON GROUND EVENTS
+5. ONLINE EVENTS
+6. MEGA EVENT
+7. EXPERT LECTURES
 
-## The event is on 3 March,2021. Further instructions will be delivered to you at your registered email stay tuned.
+## SCIE Gallery
+This portion will contain all the upcoming events and announcments, details about previous events. If you have any query then feel free to have a live chat with our team by clicking on the blue message button. Our team will be happy to assist you.
+
+### Announcements
+---
+
+### OUR EVENTS
+---
+* [Poetry Beyond  Everything](/events/poetrybeyondeverything)
+* [PAWRI WITH C](/events/pawriwithc)
+
+
+
+
+
