@@ -12,6 +12,8 @@ harness the talents of students,shape them up,mould them into competent personal
 S.C.I.E. adheres to the College Vision, of grooming the students to make them, both, technically as well as intellectually competent. The Society serves the purpose of providing students with a platform to channelize their potentials along technical as well as intellectual lines.
 
 ##Current Post Holders
+
+
 | Post              | Post Holder       | 
 | :----:            | :----:            |
 | Faculty Head      | Dr.Arvind Dhingra |
