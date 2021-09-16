@@ -18,15 +18,15 @@ S.C.I.E. adheres to the College Vision, of grooming the students to make them, b
 | Post              | Post Holder       | 
 | :----:            | :----:            |
 | Faculty Head      | Dr.Arvind Dhingra |
-| Convener          | Mohit Sharma      |
-| Co-Convener       | Mayank Bakshi     |
-| Event Coordinator | Mehek Preet       |
-| Creative Head     | Komalpreet Kaur   |
-| Secretary         | Priya             |
-| PRO               | Kajal             |
-| Allotment Head    | Rajat Nambiar     |
-| Discipline Head   | Vivek Sharma      |
-| Announcement Head | Sandeep           |
+| Convener          | Akshit Ahuja      |
+| Co-Convener       | Jashanpreet Kaur  |
+| Event Coordinator | Guneet Kohli      |
+| Creative Head     | Gurneet Kaur      |
+| Secretary         | Divneet Kaur      |
+| Promotional head  | Arshdeep Kaur     |
+| Database Head     | Vaibhav Shukla    |
+| Discipline Head   | Ritik Sagar       |
+| Announcement Head | Sahil Butola      |
 
 ## Ideas We Promote
 1. HACKATHONS
@@ -39,6 +39,9 @@ S.C.I.E. adheres to the College Vision, of grooming the students to make them, b
 
 ## SCIE Gallery
 This portion will contain all the upcoming events and announcments, details about previous events. If you have any query then feel free to have a live chat with our team by clicking on the blue message button. Our team will be happy to assist you.
+
+### Join SCIE
+If you want to join SCIE then contact us at [scie.gndec2019@gmail.com](mailto:scie.gndec2019@gmail.com)
 
 ### Announcements
 ---
