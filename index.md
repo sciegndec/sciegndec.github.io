@@ -40,8 +40,15 @@ S.C.I.E. adheres to the College Vision, of grooming the students to make them, b
 ## SCIE Gallery
 This portion will contain all the upcoming events and announcments, details about previous events. If you have any query then feel free to have a live chat with our team by clicking on the blue message button. Our team will be happy to assist you.
 
+## Why To Join SCIE ?
+* SCIE provides you the platform to enhance your skills. 
+* You get to meet and make friends who share the same interests as you do.
+* Expand your horizons and get some practical experience in areas that are different to what you’re studying
+* Develop professional experience and build leadership skills (and add it to your resume!). There’s no better way to impress an employer than to show you’re willing to get involved, work hard and gain skills outside the classroom.  We have our executive members that help organise events, look after  social media, manage finances and partake in making sure that the society runs smoothly. Getting into one of these positions is a great way to build experience for your resume. 
+* Overcome the fear of public speaking and gain confidence.
+
 ### Join SCIE
-If you want to join SCIE then contact us at [scie.gndec2019@gmail.com](mailto:scie.gndec2019@gmail.com)
+If you want to join SCIE then contact us at [scie.gndec2019@gmail.com](mailto:scie.gndec2019@gmail.com) or fill [this](https://docs.google.com/forms/d/e/1FAIpQLSer6BAHSkVaaZ9T4v_Ez9bT7CAnL1DPhcWXXsBwWLQ-JCnn6A/viewform) form. 
 
 ### Announcements
 ---
