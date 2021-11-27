@@ -52,6 +52,7 @@ Recruitment for SCIE GNDEC is on March 6,2021
 * [Treasure Island Pirates Of GNE](/events/piratesofgne)
 * [Poetry Beyond  Everything](/)
 * [PAWRI WITH C](/events/pawriwithc)
+* [Code War 2.0](/events/codewar2)
 
 We at SCIE Gndec believe in open source , so if you want to contribute to this website then feel free to send us a Pull Request. 
 
