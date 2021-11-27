@@ -43,7 +43,7 @@ This portion will contain all the upcoming events and announcments, details abou
 ## Why To Join SCIE ?
 * SCIE provides you the platform to enhance your skills. 
 * You get to meet and make friends who share the same interests as you do.
-* Expand your horizons and get some practical experience in areas that are different to what you’re studying
+* Expand your horizons and get some practical experience in areas that are different to what you’re studying.
 * Develop professional experience and build leadership skills (and add it to your resume!). There’s no better way to impress an employer than to show you’re willing to get involved, work hard and gain skills outside the classroom.  We have our executive members that help organise events, look after  social media, manage finances and partake in making sure that the society runs smoothly. Getting into one of these positions is a great way to build experience for your resume. 
 * Overcome the fear of public speaking and gain confidence.
 
