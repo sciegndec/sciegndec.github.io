@@ -52,7 +52,8 @@ If you want to join SCIE then contact us at [scie.gndec2019@gmail.com](mailto:sc
 
 ### Announcements
 ---
-Recruitment for SCIE GNDEC is on March 6,2021
+* Recruitment for SCIE GNDEC is on November 29,2021
+* Recruitment for SCIE GNDEC is on March 6,2021
 
 ### OUR EVENTS
 ---
